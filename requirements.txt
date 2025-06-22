@@ -1,0 +1,11 @@
+streamlit
+pymongo
+Pillow
+opencv-python
+imagehash
+pytesseract
+matplotlib
+seaborn
+numpy
+pandas
+certifi
