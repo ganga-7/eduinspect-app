@@ -1,11 +1,10 @@
 streamlit
-pymongo
-Pillow
 opencv-python
-imagehash
+Pillow
 pytesseract
+imagehash
+pymongo
 matplotlib
 seaborn
 numpy
 pandas
-certifi
