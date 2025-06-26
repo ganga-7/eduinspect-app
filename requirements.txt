@@ -1,10 +1,12 @@
 streamlit
+pymongo
+Pillow
 opencv-python
-pillow
 pytesseract
 imagehash
-pymongo
-matplotlib
-seaborn
+PyPDF2
+python-docx
 numpy
 pandas
+matplotlib
+seaborn
